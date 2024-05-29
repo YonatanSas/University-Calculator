@@ -6,8 +6,6 @@ The University Admission Predictor is a Python script that analyzes student grad
 
 ## Features
 
-- Graphic
-
 - User Interface (GUI) for selecting the input Excel file and specifying the output file location
 - Calculates the final grade for each student based on their courses and grades
 - Applies bonuses to specific courses based on the number of study units
