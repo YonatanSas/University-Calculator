@@ -1,8 +1,6 @@
-# University Admission Predictor
+ב# University Admission Predictor
 
 The University Admission Predictor is a Python script that analyzes student grades from an Excel file and predicts their chances of being accepted to a university based on their grades and the university's admission requirements.
-
-## Preview
 
 ## Features
 
