@@ -18,25 +18,9 @@ The University Admission Predictor is a Python script that analyzes student grad
 - openpyxl
 - tkinter
 
-## Installation
-
-1. Clone the repository or download the script file:
-
-   
-   git clone https://github.com/your-username/university-admission-predictor.git
-   
-
-2. Install the required libraries:
-
-   
-   pip install pandas openpyxl
-   
-
-   Note: tkinter is usually included with Python installations by default.
-
 ## Usage
 
-1. Prepare your input Excel file with the following columns:
+1. Input Excel file with the following columns:
    - "ת.ז" (Student ID)
    - "מקצוע" (Course)
    - "יחידות" (Study Units)
