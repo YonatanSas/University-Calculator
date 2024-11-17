@@ -227,6 +227,7 @@ if __name__ == '__main__':
     # Use the selected path for saving the Excel file
     output_file_path = save_file_path
 
+    # *********************************************************************************************************************
     # Read the Excel file with the chosen path
     # Read Excel file and select only relevant columns
     columns = ["ת.ז", "מקצוע", "יחידות", "ציון סופי/ מנובא", "האם בוצע ניבוי"]
