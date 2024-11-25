@@ -28,12 +28,8 @@ The application features a user-friendly GUI built with tkinter, leverages panda
    - "ציון סופי/ מנובא" (Final/Predicted Grade)
    - "האם בוצע ניבוי" (Prediction Status)
 
-2. Run the script:
-
+2. Run the .exe file.
    
-   python university_admission_predictor.py
-   
-
 3. A file selection dialog will appear. Choose the input Excel file and click "OK".
 
 4. A save file dialog will appear. Specify the location and name for the output Excel file and click "Save".
